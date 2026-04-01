@@ -65,3 +65,21 @@ This project successfully combines data analytics and machine learning to analyz
 * Identifying high-risk areas
 * Supporting data-driven decision-making for road safety improvement
 
+
+## SCREENSHOTS
+
+## DATA MODELLING IN POWERBI
+
+<img width="1919" height="1079" alt="Screenshot 2026-03-26 211840" src="https://github.com/user-attachments/assets/bbc39ccf-7b56-4a86-bd46-12201e819dea" />
+
+## DATA VALIDATION
+
+<img width="1919" height="1008" alt="Screenshot 2026-03-28 100249" src="https://github.com/user-attachments/assets/97ff1013-e2bf-4fe1-a069-1b1997c94f31" />
+
+## DASHBOARD
+
+ <img width="1203" height="673" alt="Screenshot 2026-03-27 235627" src="https://github.com/user-attachments/assets/06d4c3f0-95e4-4e77-a80f-8a652b02a290" />
+
+ ## SQL SERVER 
+
+<img width="1206" height="682" alt="Screenshot 2026-03-27 130338" src="https://github.com/user-attachments/assets/bb643a3f-ddbf-44cb-b50b-96344a835dc5" />
