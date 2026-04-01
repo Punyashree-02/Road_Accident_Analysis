@@ -41,6 +41,15 @@ The dataset used in this project is large in size and cannot be uploaded directl
 
 📌 Note: The dataset contains accident records including weather conditions, road types, vehicle types, and casualty details.
 
+## 🖱️ How to Use the Dashboard
+
+* Use the **slicers at the top right** to filter data by road surface and weather conditions
+* Select any category to dynamically update all charts and KPIs
+* Click on charts (vehicle type, location, road type) to apply cross-filtering
+* Hover over visuals to view detailed data insights
+
+📌 The dashboard responds in real-time, allowing users to analyze accident patterns under different conditions.
+
 
 ## 🎯 Outcome
 
